@@ -1,5 +1,5 @@
 {
-  "name": "create-hash",
+  "name": "@alexbaulch/create-hash",
   "version": "0.1.0",
   "description": "A node module for creating a salted hash using bCrypt",
   "main": "index.js",
